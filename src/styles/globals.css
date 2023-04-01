@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components{
+    .link{
+        @apply cursor-pointer hover:underline  ;
+    }
+        .menu {
+            @apply flex items-center cursor-pointer hover:underline;
+        }
+}
