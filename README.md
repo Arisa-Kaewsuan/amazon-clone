@@ -1,28 +1,10 @@
-# Installation Steps
+# About  this  Project 
 
+**:: MY &nbsp; WORK &nbsp; PROCESS ::**
 
+    1.)	Make prototype of front-end  : use Adobe XD  but in this tutorial I'll skip it ... 
+                                           [If you want to know my design process see more here]()
 
-## Using npm
+    2.)	Planning work lists : I use meister  to make work list online 
 
-Run commands
-
-1) ```npm install```
-
-
-2) ```npm run dev```
-
-
-## Or using yarn
-
-Run commands 
-
-1) ```npm install --global yarn```
-
-2) ```yarn install```
-
-3) ```yarn run dev```
-
-
-### If you see the window below then you are set to build AMAZON 2.0!
-
-![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
+    3.)	Development  Time !!!!
