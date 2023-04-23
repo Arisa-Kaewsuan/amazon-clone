@@ -5,9 +5,18 @@
 * Process Development
   > * Setting  Environment
   > * Process Development <br/> 
-      1.) Basic React <br/> 
-      2.) Basic Redux <br/> 
-      3.) Basic OAuth <br/> 
+  
+      1.)  Basic React 
+            -  What is React ? 
+            -  How to use React ? 
+           
+      2.)  Basic Redux 
+            -  What is Redux ?
+            -  How to use Redux ? 
+           
+      3.)  Basic OAuth 
+            -  What is OAuth ?
+            -  How to use OAuth ? 
 
 
 # Tech Stack :
