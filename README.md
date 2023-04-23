@@ -30,8 +30,10 @@
     >   **How to use React with next.js ?** &nbsp;:&nbsp; After you create a project, you will get a project directory. Now let's figure out what each file and folder  means and does.      
     >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.)&nbsp; **[node_modules](https://www.freecodecamp.org/news/get-started-with-react-for-beginners/)** &nbsp;:&nbsp; contains all of our dependencies.<br/>
     >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.)&nbsp; **[public](https://nextjs.org/docs/basic-features/static-file-serving)** &nbsp;:&nbsp; this folder is store static files, like images.<br/>
-    >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.)&nbsp; **[src](https://nextjs.org/docs/advanced-features/src-directory)** <br/>
-    >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.)&nbsp; **[package.json](https://dev.to/codergirl1991/what-is-create-react-app-part-2-packagejsonreadme-nodemodules-1bh9)** &nbsp;:&nbsp; store information such as name, author and version  as well as starter scripts and dependencies  used in the project. It's config file with json.<br/>
+    >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.)&nbsp; **[src](https://nextjs.org/docs/advanced-features/src-directory)** &nbsp;:&nbsp; <br/>
+    >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.)&nbsp; **[.gitignore](https://www.freecodecamp.org/news/get-started-with-react-for-beginners/)** &nbsp;:&nbsp;  It's a file that is not actually tracked by the source control, such as [.env file](https://blog.bitsrc.io/a-gentle-introduction-to-env-files-9ad424cc5ff4). <br/>
+    >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.)&nbsp; **[package.json](https://dev.to/codergirl1991/what-is-create-react-app-part-2-packagejsonreadme-nodemodules-1bh9)** &nbsp;:&nbsp; store information such as name, author and version  as well as starter scripts and dependencies  used in the project. It's config file with json.<br/>
+   
     
 
 
