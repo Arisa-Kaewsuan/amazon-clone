@@ -30,7 +30,7 @@
     >   **How to use React with next.js ?** &nbsp;:&nbsp; After you create a project, you will get a project directory. Now let's figure out what each file and folder  means and does.      
     >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.)&nbsp; **[node_modules](https://www.freecodecamp.org/news/get-started-with-react-for-beginners/)** &nbsp;:&nbsp; contains all of our dependencies.<br/>
     >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.)&nbsp; **[public](https://nextjs.org/docs/basic-features/static-file-serving)** &nbsp;:&nbsp; this folder is store static files, like images.<br/>
-    >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.)&nbsp; **[src](https://nextjs.org/docs/advanced-features/src-directory)** &nbsp;:&nbsp; This is a development area !!! <br/>
+    >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.)&nbsp; **[src](https://nextjs.org/docs/advanced-features/src-directory)** &nbsp;:&nbsp; This is a ***development area !!!*** <br/>
     >   - src/app &nbsp;:&nbsp; This folder contain all about " Pages Components ".
     >   - src/pages &nbsp;:&nbsp; 
     >     > * src/pages/api &nbsp;:&nbsp; This folder contain " API Config files ".<br/> 
