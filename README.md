@@ -35,7 +35,9 @@
     >   - src/pages &nbsp;:&nbsp; 
     >     > * src/pages/api &nbsp;:&nbsp; This folder contain " API Config files ".<br/> 
     >     > * src/pages/_app.js &nbsp;:&nbsp; It's a " Global config ".<br/>
-    >     > * src/pages/index.js &nbsp;:&nbsp; This folder that takes components to paste.<br/>
+    >     > * src/pages/index.js &nbsp;:&nbsp; This folder that takes components to paste.It's like a " Home Page ".<br/>
+    >     > * src/pages/components &nbsp;:&nbsp; Most developers create this folder to store all their " Components " in one place.<br/>
+    >     > * src/pages/slices &nbsp;:&nbsp; This folder store redux-store code
     >   - src/styles &nbsp;:&nbsp; [It's built-in css support by next.js](https://nextjs.org/docs/basic-features/built-in-css-support).<br/>   
     >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.)&nbsp; **[.gitignore](https://www.freecodecamp.org/news/get-started-with-react-for-beginners/)** &nbsp;:&nbsp;  It's a file that is not actually tracked by the source control, such as [.env file](https://blog.bitsrc.io/a-gentle-introduction-to-env-files-9ad424cc5ff4). <br/>
     >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.)&nbsp; **[package.json](https://dev.to/codergirl1991/what-is-create-react-app-part-2-packagejsonreadme-nodemodules-1bh9)** &nbsp;:&nbsp; store information such as name, author and version  as well as starter scripts and dependencies  used in the project. It's config file with json.<br/>
