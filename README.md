@@ -25,7 +25,9 @@
     >   3.) &nbsp;Start using Tailwind ! &nbsp; [see more how to use tailwind ?](https://tailwindcss.com/docs/installation)<br/> 
 
   **2.) &nbsp;Development  Process** 
--   React basics
+-   Basics React 
+    >   **What is React ?** &nbsp;:&nbsp; React.js is an JavaScript library developed by Facebook. It’s used for building web applications quickly. <br/><br/>
+    >   **How to use React ?** &nbsp;:&nbsp; After you create a project, you will get a project directory. Now let's figure out what each file and folder  means and does.
 
 
 
