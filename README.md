@@ -42,6 +42,14 @@
     >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.)&nbsp; **[.gitignore](https://www.freecodecamp.org/news/get-started-with-react-for-beginners/)** &nbsp;:&nbsp;  It's a file that is not actually tracked by the source control, such as [.env file](https://blog.bitsrc.io/a-gentle-introduction-to-env-files-9ad424cc5ff4). <br/>
     >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.)&nbsp; **[package.json](https://dev.to/codergirl1991/what-is-create-react-app-part-2-packagejsonreadme-nodemodules-1bh9)** &nbsp;:&nbsp; store information such as name, author and version  as well as starter scripts and dependencies  used in the project. It's config file with json.<br/>
     >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.)&nbsp; **[package-log.json](https://docs.npmjs.com/cli/v9/configuring-npm/package-lock-json) or [yarn.lock](https://classic.yarnpkg.com/lang/en/docs/yarn-lock/)** &nbsp;:&nbsp; In order to get consistent installs across machines, Package manager needs to store exactly which versions of each dependency were installed. <br/>
+    
+    <br/>
+-   Basics Redux 
+    >  comming soon ...
+
+    <br/>
+-   Basic OAuth
+    >  comming soon ...
    
     
 
