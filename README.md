@@ -4,20 +4,14 @@
 * Tech Stack
 * Process Development
 * Basics
-  > * Setting  Environment
-  > * Tools <br/> 
-  
-      1.)  Basic React 
-            -  What is React ? 
-            -  How to use React ? 
-           
-      2.)  Basic Redux 
-            -  What is Redux ?
-            -  How to use Redux ? 
-           
-      3.)  Basic OAuth 
-            -  What is OAuth ?
-            -  How to use OAuth ? 
+
+  * Setting  Environment
+  * Tools <br/>
+      > * Basic React<br/>
+      > * Basic Redux<br/>
+      > * Basic OAuth
+      
+ <br/><br/><br/>
 
 
 # Tech Stack :
@@ -28,7 +22,7 @@
 - Manage the react stage with [Redux](https://redux.js.org/) 
 - Payment with [Stipe](https://stripe.com/th?utm_campaign=TH_EN_Search_Brand_Stripe_EXA-19299490305&utm_medium=cpc&utm_source=google&ad_content=642259720785&utm_term=stripe&utm_matchtype=e&utm_adposition=&utm_device=c&gclid=CjwKCAjwrpOiBhBVEiwA_473dNm946BkVTaoyvevJWoPcIbhuEWviRKjK4cu3KJ5OKZyMyr-AK2YgBoCYb0QAvD_BwE).
 - Authentication with [OAuth](https://oauth.net/2/).
-
+<br/><br/><br/>
 
 # Process Development :  
 1.) &nbsp; Make a responsive " Header " component : use [**JSX**](https://legacy.reactjs.org/docs/introducing-jsx.html) and [**Tailwind**](https://tailwindcss.com/docs/responsive-design).
@@ -60,6 +54,7 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
 ``` git remote add origin [your remote address (https-link)] ``` : You need to create a project directory on the remote to store pushed data.
 
 ``` git push -u origin  main ```
+<br/><br/><br/>
 
 
 # Basics :
@@ -76,8 +71,12 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
 
   **2.) &nbsp;Tools** 
 -   Basics React 
-    >   **What is React ?** &nbsp;:&nbsp; React.js is an JavaScript library developed by Facebook. It’s used for building web applications quickly. <br/><br/>
-    >   **The main core of React** <br/><br/>
+    >   **What is React ?** &nbsp;:&nbsp; React.js is an JavaScript library developed by Facebook. It’s used for building web applications quickly. <br/><br/><br/>
+    >   **The main core of React** <br/>
+    >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.)&nbsp; [**Components**](https://legacy.reactjs.org/docs/react-component.html)<br/>
+    >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.)&nbsp; [**Props**](https://legacy.reactjs.org/docs/components-and-props.html)<br/>
+    >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.)&nbsp; [**State**](https://legacy.reactjs.org/docs/state-and-lifecycle.html)<br/>
+    >   <br/><br/>
     >   **How to use React with next.js ?** &nbsp;:&nbsp; After you create a project, you will get a project directory. Now let's figure out what each file and folder  means and does.      
     >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.)&nbsp; **[node_modules](https://www.freecodecamp.org/news/get-started-with-react-for-beginners/)** &nbsp;:&nbsp; contains all of our dependencies.<br/>
     >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.)&nbsp; **[public](https://nextjs.org/docs/basic-features/static-file-serving)** &nbsp;:&nbsp; this folder is store static files, like images.<br/>
