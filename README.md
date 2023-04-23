@@ -1,5 +1,9 @@
 
 # Amazon Clone  with  React
+**:: CONTENTS ::**
+* Tech Stack
+* Process Development
+  > *
 
 
 # Tech Stack :
@@ -24,7 +28,7 @@
     >   2.) &nbsp;Add the paths in tailwind.config.js file. &nbsp; [see more how to config ?](https://tailwindcss.com/docs/installation)<br/> 
     >   3.) &nbsp;Start using Tailwind ! &nbsp; [see more how to use tailwind ?](https://tailwindcss.com/docs/installation)<br/> 
 
-  **2.) &nbsp;Development  Process** 
+  **2.) &nbspProcess Development** 
 -   Basics React 
     >   **What is React ?** &nbsp;:&nbsp; React.js is an JavaScript library developed by Facebook. It’s used for building web applications quickly. <br/><br/>
     >   **How to use React with next.js ?** &nbsp;:&nbsp; After you create a project, you will get a project directory. Now let's figure out what each file and folder  means and does.      
