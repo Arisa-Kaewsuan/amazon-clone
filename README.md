@@ -16,7 +16,7 @@
 
 -   create new project &nbsp;:&nbsp; ``` yarn create next-app [your project name] ```
 -   try to edit project ,then run to see the result 
-    &nbsp;:&nbsp; you can edit in app.js file ``` yarn dev ```
+    &nbsp;:&nbsp; you can edit in &nbsp;" app.js "&nbsp; file and then run with this command ``` yarn dev ```
 -   setting up tailwind &nbsp;: 
 
     >   1.) &nbsp;Installation &nbsp;:&nbsp; ``` yarn add -D tailwindcss ```<br/>
