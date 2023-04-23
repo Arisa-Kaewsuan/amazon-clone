@@ -77,6 +77,7 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
   **2.) &nbsp;Tools** 
 -   Basics React 
     >   **What is React ?** &nbsp;:&nbsp; React.js is an JavaScript library developed by Facebook. It’s used for building web applications quickly. <br/><br/>
+    >   **The main core of React** <br/><br/>
     >   **How to use React with next.js ?** &nbsp;:&nbsp; After you create a project, you will get a project directory. Now let's figure out what each file and folder  means and does.      
     >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.)&nbsp; **[node_modules](https://www.freecodecamp.org/news/get-started-with-react-for-beginners/)** &nbsp;:&nbsp; contains all of our dependencies.<br/>
     >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.)&nbsp; **[public](https://nextjs.org/docs/basic-features/static-file-serving)** &nbsp;:&nbsp; this folder is store static files, like images.<br/>
