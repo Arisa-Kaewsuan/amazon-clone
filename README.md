@@ -12,7 +12,7 @@
 - Authentication with [OAuth](https://oauth.net/2/).
 
 
-# Process to develop : 
+# Process Development : 
 **1.) &nbsp;Setting  Environment**
 
 -   Create new project &nbsp;:&nbsp; [command to create react project with next.js](https://nextjs.org/docs/getting-started) &nbsp; ``` yarn create next-app [your project name] ```
