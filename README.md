@@ -15,17 +15,17 @@
 # Process to develop : 
 **1.) &nbsp;Setting  Environment**
 
--   Create new project &nbsp;:&nbsp; ``` yarn create next-app [your project name] ```
+-   Create new project &nbsp;:&nbsp; [command to create react project with next.js](https://nextjs.org/docs/getting-started) &nbsp; ``` yarn create next-app [your project name] ```
 -   Try to edit project ,then run to see the result 
-    &nbsp;:&nbsp; you can edit in &nbsp;" app.js "&nbsp; file and then run with this command ``` yarn dev ```
+    &nbsp;:&nbsp; you can edit in &nbsp;" app.js "&nbsp; file and then [run with this command](https://nextjs.org/docs/getting-started) &nbsp; ``` yarn dev ```
 -   Setting up tailwind &nbsp;: 
 
-    >   1.) &nbsp;Installation &nbsp;:&nbsp; ``` yarn add -D tailwindcss ```<br/>
-    >   2.) &nbsp;Add the paths in tailwind.config.js file.<br/> 
-    >   3.) &nbsp;Start using Tailwind !
+    >   1.) &nbsp;Installation &nbsp;:&nbsp; [command to install tailwind](https://tailwindcss.com/docs/installation) &nbsp; ``` yarn add -D tailwindcss ```<br/>
+    >   2.) &nbsp;Add the paths in tailwind.config.js file. &nbsp; [see more how to config ?](https://tailwindcss.com/docs/installation)<br/> 
+    >   3.) &nbsp;Start using Tailwind ! &nbsp; [see more how to use tailwind ?](https://tailwindcss.com/docs/installation)<br/> 
+
+  **2.) &nbsp;Development  Process** 
+-   React basics
 
 
 
-# References  :
-- Next.js  docs &nbsp;:&nbsp; https://nextjs.org/docs/getting-started
-- Tailwindcss docs &nbsp;:&nbsp; https://tailwindcss.com/docs/installation
