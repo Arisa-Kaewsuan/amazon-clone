@@ -3,8 +3,9 @@
 **:: CONTENTS ::**
 * Tech Stack
 * Process Development
+* Basics
   > * Setting  Environment
-  > * Process Development <br/> 
+  > * Tools <br/> 
   
       1.)  Basic React 
             -  What is React ? 
@@ -29,7 +30,39 @@
 - Authentication with [OAuth](https://oauth.net/2/).
 
 
-# Process Development : 
+# Process Development :  
+1.) &nbsp; Make a responsive " Header " component : use [**JSX**](https://legacy.reactjs.org/docs/introducing-jsx.html) and [**Tailwind**](https://tailwindcss.com/docs/responsive-design).
+
+2.) &nbsp; Make a responsive " Banner " component  
+- [How do i make carousel banner in nextjs ?](https://cloudinary.com/blog/guest_post/3-ways-to-implement-a-carousel-in-nextjs)
+- [How do i make carousel banner in react ?](https://www.makeuseof.com/react-js-interactive-carousel-build/)
+- [What react libraries are there to make a carousel ?](https://alvarotrigo.com/blog/react-carousels/)<br/> 
+This tutorial use [**React-Responsive-Carousel**](https://www.npmjs.com/package/react-responsive-carousel).
+
+3.) &nbsp; Make a responsive " ProductFeed " component
+- [I wanna get fake e-commerce product to make e-commerce web prototype with react](https://www.google.com/search?q=I+wanna+get+fake+e-commerce+product+to+make+e-commerce+web+prototype+with+react&sxsrf=APwXEddTfamqYTZLWnsq06EdRLFojkj0IQ%3A1682267680679&ei=IF5FZKKRKYmw4-EPssav6Aw&ved=0ahUKEwiioZi8t8D-AhUJ2DgGHTLjC80Q4dUDCA8&oq=I+wanna+get+fake+e-commerce+product+to+make+e-commerce+web+prototype+with+react&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQDEoECEEYAFAAWABgAGgAcAF4AIABAIgBAJIBAJgBAKABAQ&sclient=gws-wiz-serp)
+- [How i make fake product in react ?](https://www.robinwieruch.de/react-mock-data/)
+- [How i get mock data in react ?](https://www.google.com/search?q=how+i+get+mock+data+in+react&sxsrf=APwXEdfMMocdHrtlOtHh3NEvLIQ5YSSFHg%3A1682267609694&source=hp&ei=2V1FZPvTKI2f-AaT64fQCg&iflsig=AOEireoAAAAAZEVr6UkhTPKl3_gphE6aZql5LNuDMpGJ&oq=how+i+get+mock+data+&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCCEQoAEyCAghEKABEIsDMggIIRCgARCLAzILCCEQFhAeEB0QiwMyCwghEBYQHhAdEIsDMgsIIRAWEB4QHRCLAzILCCEQFhAeEB0QiwMyCwghEBYQHhAdEIsDMgsIIRAWEB4QHRCLAzILCCEQFhAeEB0QiwM6BwgjEOoCECc6BAgjECc6BwguEIoFEEM6BwgAEIoFEEM6CwgAEIAEELEDEIMBOgsILhCABBCxAxCDAToFCC4QgAQ6CwguEIMBELEDEIAEOg4ILhCABBCxAxDHARDRAzoICAAQgAQQsQM6BQgAEIAEOgsIABCKBRCxAxCDAToICC4QgAQQ1AI6CAgAEIAEEMsBOggILhCABBDLAToLCC4QgAQQ1AIQywE6BggAEBYQHjoICAAQFhAeEAo6CAgAEBYQHhAPOggIIRAWEB4QHToHCCEQoAEQCjoKCCEQoAEQChCLA1C3G1i8U2CTZGgBcAB4AIABlAGIAZsRkgEENC4xNpgBAKABAbABCrgBAw&sclient=gws-wiz)<br/> 
+This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
+- [How I fetch data from api with nextjs ?](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props) : use server side rendering to fetch product from fake-store api
+
+4.) &nbsp; Try to deploy project on [**Vercel**](https://vercel.com/docs)
+- vercel will pull the project from git remote to deploy . So, we need to push project from local to remote.<br/> 
+
+``` git init ``` : It is the command to create a " .init " file in the project to store the committed file.
+
+``` git add * ``` : Select the file to commit.If ัyou using * means select all files.
+
+``` git commit -m "[messege you want]"``` : Save the changes in the .init file (git local). It make you to look back at older versions of the code.
+
+``` git branch -M main ```
+
+``` git remote add origin [your remote address (https-link)] ``` : You need to create a project directory on the remote to store pushed data.
+
+``` git push -u origin  main ```
+
+
+# Basics :
 **1.) &nbsp;Setting  Environment**
 
 -   Create new project &nbsp;:&nbsp; [command to create react project with next.js](https://nextjs.org/docs/getting-started) &nbsp; ``` yarn create next-app [your project name] ```
@@ -41,7 +74,7 @@
     >   2.) &nbsp;Add the paths in tailwind.config.js file. &nbsp; [see more how to config ?](https://tailwindcss.com/docs/installation)<br/> 
     >   3.) &nbsp;Start using Tailwind ! &nbsp; [see more how to use tailwind ?](https://tailwindcss.com/docs/installation)<br/> 
 
-  **2.) &nbsp;Process Development** 
+  **2.) &nbsp;Tools** 
 -   Basics React 
     >   **What is React ?** &nbsp;:&nbsp; React.js is an JavaScript library developed by Facebook. It’s used for building web applications quickly. <br/><br/>
     >   **How to use React with next.js ?** &nbsp;:&nbsp; After you create a project, you will get a project directory. Now let's figure out what each file and folder  means and does.      
