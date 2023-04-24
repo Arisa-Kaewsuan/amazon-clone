@@ -57,6 +57,16 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
 ``` git push -u origin  main ``` : You now have a project on git repository. chek it out ! and deploy it on vercel.
 
 5.) &nbsp; Make authentication portion
+- [How to implement google authentication in next js](https://www.telerik.com/blogs/how-to-implement-google-authentication-nextjs-app-using-nextauth) &nbsp;:&nbsp; use NextAuth
+
+- [What is API route in react ?](https://nextjs.org/docs/api-routes/introduction) &nbsp;:&nbsp; API routes provide a solution to build your API with Next.js.
+
+- [How i make secret credentials in nextjs ?](https://blog.logrocket.com/nextauth-js-for-next-js-client-side-authentication/#creating-a-google-oauth-app) &nbsp;:&nbsp; use " .env.local "
+>  not complete ...
+
+6.) &nbsp; Routing Handle
+- [How I click  logo and then it take me to the other Page in nextjs ?](https://nextjs.org/docs/routing/introduction) &nbsp;:&nbsp; use Dynamic Route Next.js > Imperatively
+
 <br/><br/><br/>
 
 
