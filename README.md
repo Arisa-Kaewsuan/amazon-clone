@@ -54,6 +54,8 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
 ``` git remote add origin [your remote address (https-link)] ``` : You need to create a project directory on the remote to store pushed data.
 
 ``` git push -u origin  main ``` : You now have a project on git repository. chek it out ! and deploy it on vercel.
+
+5.) &nbsp; Authentication
 <br/><br/><br/>
 
 
