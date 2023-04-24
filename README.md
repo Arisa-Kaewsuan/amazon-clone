@@ -21,7 +21,7 @@
 - Style with [Tailwind](https://tailwindcss.com/)
 - Manage the react stage with [Redux](https://redux.js.org/) 
 - Payment with [Stipe](https://stripe.com/th?utm_campaign=TH_EN_Search_Brand_Stripe_EXA-19299490305&utm_medium=cpc&utm_source=google&ad_content=642259720785&utm_term=stripe&utm_matchtype=e&utm_adposition=&utm_device=c&gclid=CjwKCAjwrpOiBhBVEiwA_473dNm946BkVTaoyvevJWoPcIbhuEWviRKjK4cu3KJ5OKZyMyr-AK2YgBoCYb0QAvD_BwE).
-- Authentication with [OAuth](https://oauth.net/2/).
+- Authentication with [NextAuth](https://next-auth.js.org/getting-started/example) &nbsp; [OAuth](https://oauth.net/2/).
 <br/><br/><br/>
 
 # Process Development :  
