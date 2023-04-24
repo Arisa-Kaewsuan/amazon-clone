@@ -55,7 +55,7 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
 
 ``` git push -u origin  main ``` : You now have a project on git repository. chek it out ! and deploy it on vercel.
 
-5.) &nbsp; Authentication
+5.) &nbsp; Make authentication portion
 <br/><br/><br/>
 
 
