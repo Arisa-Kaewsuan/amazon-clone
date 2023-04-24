@@ -113,11 +113,12 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
     >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.) Navigation / Route <br/>
     >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.) Destructuring <br/>
     >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.) Immutable / Mutable <br/>
-    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.) Dependency = Package <br/>
-    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.) Rendering = Display <br/>
-    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6.) Source Control = Version Control [ like github, gitlab . . .] <br/>
-    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.) git remote / remote = git repository on website 
-    
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.) Dependency &nbsp;=&nbsp; Package <br/>
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.) Rendering &nbsp;=&nbsp; Display <br/>
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6.) Source Control &nbsp;=&nbsp; Version Control [ like github, gitlab . . .] <br/>
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.) git remote / remote &nbsp;=&nbsp; git repository on website 
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.) implement &nbsp;=&nbsp; use
+     
     <br/>
 -   Basics Redux 
     >  **What is redux ?** &nbsp;:&nbsp; it is global store in your app . <br/><br/><br/>
