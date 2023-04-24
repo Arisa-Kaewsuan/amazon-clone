@@ -67,6 +67,8 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
 6.) &nbsp; Routing Handle
 - [How I click  logo and then it take me to the other Page in nextjs ?](https://nextjs.org/docs/routing/introduction) &nbsp;:&nbsp; use Dynamic Route Next.js > Imperatively
 
+7.) Make Checkout Page
+
 <br/><br/><br/>
 
 
@@ -83,6 +85,7 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
     >   3.) &nbsp;Start using Tailwind ! &nbsp; [see more how to use tailwind ?](https://tailwindcss.com/docs/installation)<br/> 
 
   **2.) &nbsp;Tools** 
+  
 -   Basics React 
     >   **What is React ?** &nbsp;:&nbsp; React.js is an JavaScript library developed by Facebook. It’s used for building web applications quickly. <br/><br/><br/>
     >   **The main core of React** <br/>
@@ -109,47 +112,21 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
     
     <br/>
 -   Basics Redux 
-    >  comming soon ...
+    >  **What is redux ?** &nbsp;:&nbsp; it is global store in your app . <br/><br/><br/>
+    >  **What redux do ? - Example** &nbsp;:&nbsp; when we click add product to the basket (push some information into basket) . It gonna store the item in some kind of global store that the app can pull information from that . <br/><br/><br/>
+    >  **How to use Redux ?** &nbsp;:&nbsp; <br/>
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.)&nbsp; Create store<br/>
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.)&nbsp; Create slice > Add action inside reducer:{...} object > Export selectItem <br/><br/><br/>
+    >  **Recap Terminologies :**<br/>
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.) reducer<br/>
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.) action <br/>
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.) dispatching <br/>
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.) useSelector <br/>
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.) action.payload <br/>
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6.) handy hook <br/>
 
     <br/>
 -   Basic OAuth
     >  comming soon ...
    
    
-<br/><br/><br/>
-# Termonalogy in React
-  1.) Navigation / Route
-
-  2.) Destructuring
-
-  3.) Immutable 
-
-  4.) Dependency
-
-  5.) rendering
-
-  6.) server side rendering
-
-  7.) source control
-
-  8.) git repository / git remote
-
-  9.) OAuth
-
-  10.) Authentication Providers
-
-  11.) Autherized vs Authentication
-  
-  12.) Redux
-  
-  13.) Hook
-    
-
-
-
-
-
-
-
-
-
