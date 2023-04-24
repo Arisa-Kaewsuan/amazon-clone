@@ -10,7 +10,7 @@
       > * Basic React<br/>
       > * Basic Redux<br/>
       > * Basic OAuth
-      
+* Terminologies    
  <br/><br/><br/>
 
 
@@ -105,6 +105,34 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
 -   Basic OAuth
     >  comming soon ...
    
+   
+<br/><br/><br/>
+# Termonalogy in React
+  1.) Navigation / Route
+
+  2.) Destructuring
+
+  3.) Immutable 
+
+  4.) Dependency
+
+  5.) rendering
+
+  6.) server side rendering
+
+  7.) source control
+
+  8.) git repository / git remote
+
+  9.) OAuth
+
+  10.) Authentication Providers
+
+  11.) Autherized vs Authentication
+  
+  12.) Redux
+  
+  13.) Hook
     
 
 
