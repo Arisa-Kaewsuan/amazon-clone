@@ -53,7 +53,7 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
 
 ``` git remote add origin [your remote address (https-link)] ``` : You need to create a project directory on the remote to store pushed data.
 
-``` git push -u origin  main ```
+``` git push -u origin  main ``` : You now have a project on git repository. chek it out ! and deploy it on vercel.
 <br/><br/><br/>
 
 
@@ -84,7 +84,7 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
     >   - src/app &nbsp;:&nbsp; This folder contain all about " Pages Components ".
     >   - src/pages &nbsp;:&nbsp; 
     >     > * src/pages/api &nbsp;:&nbsp; This folder contain " API Config files ".<br/> 
-    >     > * src/pages/_app.js_ &nbsp;:&nbsp; It's a " Global config ".<br/>
+    >     > * src/pages/__app.js_ &nbsp;:&nbsp; It's a " Global config ".<br/>
     >     > * src/pages/index.js &nbsp;:&nbsp; This folder that takes components to paste.It's like a " Home Page ".<br/>
     >     > * src/pages/components &nbsp;:&nbsp; Most developers create this folder to store all their " Components " in one place.<br/>
     >     > * src/pages/slices &nbsp;:&nbsp; This folder store redux-store code
