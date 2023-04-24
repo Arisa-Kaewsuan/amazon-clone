@@ -116,8 +116,8 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
     >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.) Dependency &nbsp;=&nbsp; Package <br/>
     >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.) Rendering &nbsp;=&nbsp; Display <br/>
     >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6.) Source Control &nbsp;=&nbsp; Version Control [ like github, gitlab . . .] <br/>
-    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.) git remote / remote &nbsp;=&nbsp; git repository on website 
-    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.) implement &nbsp;=&nbsp; use
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.) Git remote / remote &nbsp;=&nbsp; Git repository on website <br/>
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.) Implement &nbsp;=&nbsp; Use
      
     <br/>
 -   Basics Redux 
