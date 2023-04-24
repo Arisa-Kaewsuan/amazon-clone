@@ -9,8 +9,7 @@
   * Tools <br/>
       > * Basic React<br/>
       > * Basic Redux<br/>
-      > * Basic OAuth
-* Terminologies    
+      > * Basic OAuth   
  <br/><br/><br/>
 
 
@@ -67,8 +66,12 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
 6.) &nbsp; Routing Handle
 - [How I click  logo and then it take me to the other Page in nextjs ?](https://nextjs.org/docs/routing/introduction) &nbsp;:&nbsp; use Dynamic Route Next.js > Imperatively
 
-7.) Make Checkout Page
-
+7.) &nbsp; Make Checkout Page
+- [Add image](https://nextjs.org/docs/api-reference/next/image) : If you are using a version of Next.js prior to 13, you'll want to use the next/legacy/image <br/>
+- Make cart system 
+  > - [How i make cart system in next js ?](https://www.google.com/search?q=how+i+make+cart+system+in+next+js&sxsrf=APwXEdf09VwORenkNP6VCU9tynp_2_gwWg%3A1682328842381&ei=Ck1GZOroFoyUseMP0vmFmAU&oq=how+i+make+cart+system+in+next&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgUIIRCgATIFCCEQoAE6BwgjEOoCECc6BAgjECc6CwgAEIAEELEDEIMBOgsILhCDARCxAxCABDoOCC4QgAQQsQMQxwEQ0QM6BQguEIAEOgsIABCKBRCxAxCDAToFCAAQgAQ6CAgAEIAEELEDOggILhCABBDUAjoICAAQgAQQywE6CAguEIAEEMsBOgsILhCABBDUAhDLAToGCAAQFhAeOggIIRAWEB4QHToKCCEQFhAeEA8QHToLCCEQFhAeEB0QiwM6BwghEKABEAo6CAghEKABEIsDSgQIQRgAUABYo1Zg3GNoAnABeAKAAY8IiAGxRJIBEDAuMTcuNC4yLjQuMi4xLjGYAQCgAQGwAQq4AQLAAQE&sclient=gws-wiz-serp) <br/>
+  >  - [How i do crud in client next js ?](https://www.google.com/search?q=how+i+do+crud+in+client+next+js&sxsrf=APwXEdfou06ghjrY4c1TvG0TkfXpg23R9w%3A1682329508032&ei=pE9GZOfMAcubseMPt8S14AU&oq=how+i+do+CRUD+in+client+&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgUIIRCgATIFCCEQoAEyBQghEKABOgcIIxDqAhAnOgQIIxAnOgsIABCABBCxAxCDAToLCC4QgAQQsQMQgwE6BQguEIAEOgsIABCKBRCxAxCDAToOCC4QgAQQsQMQxwEQ0QM6CwguEIMBELEDEIAEOggIABCABBCxAzoFCAAQgAQ6CAguEIAEENQCOggIABCABBDLAToICC4QgAQQywE6CwguEIAEENQCEMsBOgYIABAWEB46CAgAEBYQHhAPOgoIABAWEB4QDxAKOggIIRCgARCLAzoNCCEQFhAeEA8QHRCLAzoLCCEQFhAeEB0QiwM6CAghEBYQHhAdOgoIIRAWEB4QDxAdOgcIIRCgARAKOgoIIRCgARAKEIsDSgQIQRgAUNmLA1jGjARgu5oEaAdwAXgAgAH_AYgB9BmSAQY1LjIwLjKYAQCgAQGwAQq4AQLAAQE&sclient=gws-wiz-serp) : use [Redux](https://redux.js.org/tutorials/quick-start) because client server rendering make  user can quickly view the website.<br/>
+  
 <br/><br/><br/>
 
 
@@ -149,6 +152,7 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
     >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.) OAuth <br/>
     >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.) Provider <br/>
     >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.) Autherize vs Authentication <br/>
+    >    Not complete . . .
   
    
    
