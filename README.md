@@ -124,8 +124,17 @@ This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
     >  **What is redux ?** &nbsp;:&nbsp; it is global store in your app . <br/><br/><br/>
     >  **What redux do ? - Example** &nbsp;:&nbsp; when we click add product to the basket (push some information into basket) . It gonna store the item in some kind of global store that the app can pull information from that . <br/><br/><br/>
     >  **How to use Redux ?** &nbsp;:&nbsp; <br/>
-    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.)&nbsp; Create store<br/>
-    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.)&nbsp; Create slice > Add action inside reducer:{...} object > Export selectItem <br/><br/><br/>
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.)&nbsp; Create store <br/>
+    >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.)&nbsp; Create slice <br/>
+    
+             2.1)  Add action inside reducer:{...} object   
+             2.2)  Example actions such as . . .
+             2.3)  fetch data to save in store (paylooad) 
+             2.4)  remove information in store  
+             2.5)  Export selectItem    
+            
+    >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.)&nbsp; In the page that wants to send information to the store &nbsp;:&nbsp; use " dispatch(action) "<br/>
+    >   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.)&nbsp; In the page that wants to fetch information from the store to use &nbsp;:&nbsp;  use " useSelector " <br/><br/><br/>
     >  **Recap Terminologies :**<br/>
     >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.) reducer <br/>
     >    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.) action <br/>
