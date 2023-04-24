@@ -39,6 +39,7 @@ This tutorial use [**React-Responsive-Carousel**](https://www.npmjs.com/package/
 - [How i get mock data in react ?](https://www.google.com/search?q=how+i+get+mock+data+in+react&sxsrf=APwXEdfMMocdHrtlOtHh3NEvLIQ5YSSFHg%3A1682267609694&source=hp&ei=2V1FZPvTKI2f-AaT64fQCg&iflsig=AOEireoAAAAAZEVr6UkhTPKl3_gphE6aZql5LNuDMpGJ&oq=how+i+get+mock+data+&gs_lcp=Cgdnd3Mtd2l6EAMYADIFCCEQoAEyCAghEKABEIsDMggIIRCgARCLAzILCCEQFhAeEB0QiwMyCwghEBYQHhAdEIsDMgsIIRAWEB4QHRCLAzILCCEQFhAeEB0QiwMyCwghEBYQHhAdEIsDMgsIIRAWEB4QHRCLAzILCCEQFhAeEB0QiwM6BwgjEOoCECc6BAgjECc6BwguEIoFEEM6BwgAEIoFEEM6CwgAEIAEELEDEIMBOgsILhCABBCxAxCDAToFCC4QgAQ6CwguEIMBELEDEIAEOg4ILhCABBCxAxDHARDRAzoICAAQgAQQsQM6BQgAEIAEOgsIABCKBRCxAxCDAToICC4QgAQQ1AI6CAgAEIAEEMsBOggILhCABBDLAToLCC4QgAQQ1AIQywE6BggAEBYQHjoICAAQFhAeEAo6CAgAEBYQHhAPOggIIRAWEB4QHToHCCEQoAEQCjoKCCEQoAEQChCLA1C3G1i8U2CTZGgBcAB4AIABlAGIAZsRkgEENC4xNpgBAKABAbABCrgBAw&sclient=gws-wiz)<br/> 
 This tutorial use [**Fake Store API**](https://fakestoreapi.com/).
 - [How I fetch data from api with nextjs ?](https://nextjs.org/docs/basic-features/data-fetching/get-server-side-props) : use server side rendering to fetch product from fake-store api
+- [How I  insert banner between product api in react ?](https://stackoverflow.com/questions/72977045/how-can-i-put-an-ad-banner-after-a-row-of-content-using-react-and-tailwind-css) : use slice
 
 4.) &nbsp; Try to deploy project on [**Vercel**](https://vercel.com/docs)
 - vercel will pull the project from git remote to deploy . So, we need to push project from local to remote.<br/> 
